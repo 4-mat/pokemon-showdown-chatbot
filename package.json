@@ -1,0 +1,23 @@
+{
+	"name": "bottt-iii",
+	"version": "0.0.1",
+	"dependencies": {
+		"axios": "^0.26.1",
+		"colors": "^1.4.0",
+		"probe-image-size": "^7.2.3",
+		"websocket": "^1.0.34"
+	},
+	"scripts": {
+		"start": "node main.js"
+	},
+	"bin": "./main.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/DaWoblefet/BoTTT-III.git"
+	},
+	"author": {
+		"name": "Leonard Craft III",
+		"email": "leonardcraft64@gmail.com"
+	},
+	"private": true
+}
